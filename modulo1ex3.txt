@@ -1,0 +1,5 @@
+
+
+6colunas, em ordenadas em ímpar e par, a ímpar tem 4Matemática e 2português, a coluna par tem 4português e 2 matemática.
+Ele percebeu que teve alteração na coluna 5 da esquerda para direita, pois tinha 3matemática e 3 português.
+o aluno 5 da quinta coluna trocou lugar com o 5 da quarta coluna, aluno 5 da quinta coluna trocou de portugues e o 5 da quarta coluna continuou com português.
